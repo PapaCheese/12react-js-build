@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.62170701.chunk.css",
-    "main.js": "./static/js/main.3f28465b.chunk.js",
-    "main.js.map": "./static/js/main.3f28465b.chunk.js.map",
+    "main.css": "./static/css/main.db18fd80.chunk.css",
+    "main.js": "./static/js/main.ce0be5d5.chunk.js",
+    "main.js.map": "./static/js/main.ce0be5d5.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.4cd35e85.js",
     "runtime-main.js.map": "./static/js/runtime-main.4cd35e85.js.map",
     "static/js/2.32274810.chunk.js": "./static/js/2.32274810.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "./index.html",
     "service-worker.js": "./service-worker.js",
     "service-worker.js.map": "./service-worker.js.map",
-    "static/css/main.62170701.chunk.css.map": "./static/css/main.62170701.chunk.css.map",
+    "static/css/main.db18fd80.chunk.css.map": "./static/css/main.db18fd80.chunk.css.map",
     "static/js/2.32274810.chunk.js.LICENSE.txt": "./static/js/2.32274810.chunk.js.LICENSE.txt",
     "static/media/ADD PRESET.cf36ed4b.png": "./static/media/ADD PRESET.cf36ed4b.png",
     "static/media/CANCEL.55c1191e.png": "./static/media/CANCEL.55c1191e.png",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.4cd35e85.js",
     "static/js/2.32274810.chunk.js",
-    "static/css/main.62170701.chunk.css",
-    "static/js/main.3f28465b.chunk.js"
+    "static/css/main.db18fd80.chunk.css",
+    "static/js/main.ce0be5d5.chunk.js"
   ]
 }
