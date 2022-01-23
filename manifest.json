@@ -1,6 +1,6 @@
 {
-    "short_name": "React App",
-    "name": "Create React App Sample",
+    "short_name": "12React",
+    "name": "12 React",
     "icons": [{
             "src": "favicon.ico",
             "sizes": "64x64 32x32 24x24 16x16",
@@ -17,8 +17,10 @@
             "sizes": "512x512"
         }
     ],
-    "start_url": ".",
-    "display": "standalone",
-    "theme_color": "#000000",
-    "background_color": "#ffffff"
+    "orientation": "portrait",
+    "start_url": "/",
+    "display": "fullscreen",
+    "theme_color": "#ffffff",
+    "background_color": "#000000",
+    "prefer_related_applications": false
 }
